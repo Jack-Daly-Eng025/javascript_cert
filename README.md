@@ -1,3 +1,4 @@
-# A empty repository to house my completed projects from freeCodeCamp. 
+# JavaScript Algorithms and Data Structures (Beta)
+## This is a repository to track "working" and complete code I know works from my progress and completion of challenges on freeCodeCamp.
 
-## BLAH BLAH
+## These scripts are here for demonstrative purposes to show learning-by-doing.
